@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Nicole Wu!
-- 👀 I’m interested in ...
+- 👋 Hi, I’m Nicole!
+- 👀 I’m interested in development, design, and digital heritage!
 - 🌱 I’m currently learning front-end development.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on anything! Let's chat :)
 - 📫 How to reach me: https://www.linkedin.com/in/nicolewu/
 
 <!---
